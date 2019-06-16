@@ -7,6 +7,6 @@ Given on: 2019-06-22
 Location: [NodeConfCo](https://colombia.nodeconf.com/)
 
 Artifacts include:
-  - Outline
+  - [Outline](https://github.com/AndreaGriffiths11/nodeconfco-2019-talk/blob/master/outline.md)
   - Blog post
   - Deck
