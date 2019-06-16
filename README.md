@@ -2,5 +2,6 @@
 
 A repository to share items from my talk given at [NodeConfCo](https://colombia.nodeconf.com/)
 To include:
+  - Outline
   - Blog post
   - Deck
