@@ -8,5 +8,5 @@ Location: [NodeConfCo](https://colombia.nodeconf.com/)
 
 Artifacts include:
   - [Outline](https://github.com/AndreaGriffiths11/nodeconfco-2019-talk/blob/master/outline.md)
-  - Blog post
+  - [Blog post](https://github.com/AndreaGriffiths11/nodeconfco-2019-talk/blob/master/blogpost.md)
   - [Deck](https://github.com/AndreaGriffiths11/nodeconfco-2019-talk/blob/master/tan-egoista.pdf)
