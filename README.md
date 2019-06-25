@@ -1,7 +1,7 @@
 # nodeconfco-2019-talk
 
 A repository to share items from my talk:
-"Tan Egoista! OSS to level up your career, reputation or to get your first job.
+"Tan Egoista! OSS to level up your career, reputation or to get your first job".
 
 Given on: 2019-06-22 
 
